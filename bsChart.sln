@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bsChart", "bsChart.csproj", "{3569E617-85D1-4918-8FBC-77894AD86D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chart", "..\chart\chart.csproj", "{E070ADF0-2ABD-411C-8D2A-A39A8FDDF86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3569E617-85D1-4918-8FBC-77894AD86D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3569E617-85D1-4918-8FBC-77894AD86D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3569E617-85D1-4918-8FBC-77894AD86D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3569E617-85D1-4918-8FBC-77894AD86D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E070ADF0-2ABD-411C-8D2A-A39A8FDDF86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E070ADF0-2ABD-411C-8D2A-A39A8FDDF86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E070ADF0-2ABD-411C-8D2A-A39A8FDDF86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E070ADF0-2ABD-411C-8D2A-A39A8FDDF86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
